@@ -118,3 +118,6 @@ $RECYCLE.BIN/
 *.db-wal
 *.db-shm
 *.ipch
+
+.vs
+/make/out
